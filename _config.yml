@@ -12,7 +12,7 @@ title                    : "我的个人工具网站"
 title_separator          : "-"
 name                     : &name "young_sky"
 description              : &description "hth 24182106"
-url                      : https://young-sky-0203.abcdefg.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://young-sky-0203.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "young-sky-0203/young-sky-0203.github.io"
 
