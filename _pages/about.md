@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kards"
+title: "Hello，"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 # 欢迎来到我的网站  
 这是一个便于我个人操作的简单网站，包括常用网址、备忘录等，便于本人日常使用。  
 如果你想添加一些网站，可以点击左侧的"email"联系我。  
-______
+________________________________________________
 
 ## 常用网址  
 1.北航：  
@@ -24,7 +24,7 @@ ______
 
 4.资料  
 [VScode配置c语言环境](https://blog.csdn.net/ningxi_312/article/details/134121635) [c语言标准库函数大全](https://blog.csdn.net/weixin_44793491/article/details/107644666) [c语言标准库函数头文件](https://zh.cppreference.com/w/c/header)[]() []()[]() []()[]() []()[]() 
-___
+________________________________________________
 ## 备忘录 （2024.11.13更新）
 11.13 下午 党课；晚 走软答辩  
 11.15 下午 博雅  
