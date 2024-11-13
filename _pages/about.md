@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 # 欢迎来到我的网站  
-这是一个关于**Kards**的简单网站，包括游戏介绍、游戏攻略、推荐教程等，希望你能从中获取到你所想要的资料。  
-### 介绍
-KARDS 是一款让所有玩家都能从中找到快乐的策略类数字卡牌游戏。KARDS 将传统的收集类卡牌游戏的游戏方式与真实的战场策略和受传统战略游戏启发产生的创新机制完美结合。发号施令，掌控全局，在海、陆、空的战场上与其他玩家对垒。  
-游戏官网：[欢迎来到 Kards](https://www.kards.com/zh)  
-### 游戏攻略
+这是一个便于我个人操作的简单网站，包括个人资料、常用网址、备忘录等，便于本人日常使用。  
+## 常用网址  
+1.北航相关：  
+[北航校园网](https://zfw.buaa.edu.cn/home) [北航教务部](https://jiaowu.buaa.edu.cn/bhjwc2.0/index/index.do)  
+___
+2.学习相关  
+[智学北航](https://spoc.buaa.edu.cn/spocnew/jxkj2) [OJ](https://accoding.buaa.edu.cn/index) [学信网](https://my.chsi.com.cn/archive/index.action?trnd=85818430891183444954623647908675) [离散数学](https://dmplatform.buaa.edu.cn/index)
